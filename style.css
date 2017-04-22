@@ -1,17 +1,17 @@
-main.wrapper {
+.main.wrapper {
     background-color: #edd3d5;
     position: center
 }
 
-index.title {
+.index.title {
 
 }
 
-content.ideas {
+.content.ideas {
 
 }
 
-image.link {
+.image.link {
   height: 200px;
   width: 300px;
 }
